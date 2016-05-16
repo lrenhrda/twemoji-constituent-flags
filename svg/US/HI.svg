@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="65px" viewBox="0 0 90 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Hawai'i</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M89.999,55.1428749 C89.9225666,60.6000043 85.4743049,65 80,65 L10,65 C4.476,65 0,60.523 0,55 L0,10 C0,4.477 4.476,0 10,0 L80,0 C85.4743049,0 89.9225666,4.39999574 89.999,9.85712513 L89.999,55.1428749 L89.999,55.1428749 Z" id="path-1"></path>
+        <path d="M10,0 C4.476,0 0,4.477 0,10 L0,33 L47.999,33 L47.999,0 L10,0 L10,0 Z" id="path-3"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Hawai'i">
+            <g id="Group">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <polygon id="Fill-1" fill="#F1F2F2" mask="url(#mask-2)" points="0 65 90 65 90 0 0 0"></polygon>
+                <polygon id="Fill-3" fill="#CF1B2B" mask="url(#mask-2)" points="0 16.125 90 16.125 90 8 0 8"></polygon>
+                <polygon id="Fill-4" fill="#00247D" mask="url(#mask-2)" points="0 24.125 90 24.125 90 16 0 16"></polygon>
+                <polygon id="Fill-5" fill="#CF1B2B" mask="url(#mask-2)" points="0 41.125 90 41.125 90 33 0 33"></polygon>
+                <polygon id="Fill-6" fill="#CF1B2B" mask="url(#mask-2)" points="0 65.125 90 65.125 90 57 0 57"></polygon>
+                <polygon id="Fill-7" fill="#00247D" mask="url(#mask-2)" points="0 49.125 90 49.125 90 41 0 41"></polygon>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <g id="Clip-10"></g>
+                <polygon id="Fill-9" fill="#00247D" mask="url(#mask-4)" points="0 33 48 33 48 0 0 0"></polygon>
+                <polygon id="Fill-11" fill="#F1F2F2" mask="url(#mask-4)" points="19.109 18.074 -5 1.735 -0.48 -5 23.629 11.339"></polygon>
+                <polygon id="Fill-12" fill="#CF1B2B" mask="url(#mask-4)" points="19.109 16.864 -5 0.525 -3.304 -2 20.804 14.339"></polygon>
+                <polygon id="Fill-13" fill="#F1F2F2" mask="url(#mask-4)" points="28.52 18.074 24 11.339 48.108 -5 52.628 1.735"></polygon>
+                <polygon id="Fill-14" fill="#CF1B2B" mask="url(#mask-4)" points="26.695 14.864 25 12.339 49.109 -4 50.803 -1.475"></polygon>
+                <polygon id="Fill-15" fill="#F1F2F2" mask="url(#mask-4)" points="48.108 38.074 24 21.735 28.52 15 52.628 31.339"></polygon>
+                <polygon id="Fill-16" fill="#CF1B2B" mask="url(#mask-4)" points="50.11 34.865 26 18.525 27.696 16 51.803 32.34"></polygon>
+                <polygon id="Fill-17" fill="#F1F2F2" mask="url(#mask-4)" points="-0.48 38.074 -5 31.339 19.109 15 23.629 21.735"></polygon>
+                <polygon id="Fill-18" fill="#CF1B2B" mask="url(#mask-4)" points="-1.305 36.864 -3 34.339 21.108 18 22.804 20.525"></polygon>
+                <polygon id="Fill-19" fill="#F1F2F2" mask="url(#mask-4)" points="17 33 29 33 29 0 17 0"></polygon>
+                <polygon id="Fill-20" fill="#F1F2F2" mask="url(#mask-4)" points="0 22 48 22 48 10 0 10"></polygon>
+                <polygon id="Fill-21" fill="#CF1B2B" mask="url(#mask-4)" points="20 33 26 33 26 0 20 0"></polygon>
+                <polygon id="Fill-22" fill="#CF1B2B" mask="url(#mask-4)" points="0 19 47.999 19 47.999 13 0 13"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

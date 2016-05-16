@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="90px" height="65px" viewBox="0 0 90 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.2 (28276) - http://www.bohemiancoding.com/sketch -->
+    <title>Arizona</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Arizona">
+            <g id="Page-1">
+                <polygon id="Fill-1" fill="#FED700" points="32.4774 0.0002 45.0004 32.9992 40.9864 0.0002"></polygon>
+                <polygon id="Fill-2" fill="#CF1B2B" points="40.986 0.0002 45 32.9992 49 0.0002"></polygon>
+                <g id="Group-29">
+                    <path d="M22.2136,0 L9.9996,0 C9.3056,0 8.6276,0.071 7.9736,0.206 L44.9996,33 L22.2136,0 Z" id="Fill-3" fill="#FED700"></path>
+                    <polygon id="Fill-5" fill="#CF1B2B" points="32.4776 0 22.2136 0 44.9996 33"></polygon>
+                    <polygon id="Fill-7" fill="#CF1B2B" points="0 21.9108 0 32.9998 45 32.9998"></polygon>
+                    <path d="M0.0302,9.4034 C0.0182,9.6014 0.0002,9.7984 0.0002,10.0004 L0.0002,21.9104 L45.0002,33.0004 L0.0302,9.4034 Z" id="Fill-9" fill="#FED700"></path>
+                    <path d="M7.9733,0.2061 C3.6123,1.1041 0.3003,4.8441 0.0303,9.4031 L45.0003,33.0001 L7.9733,0.2061 Z" id="Fill-11" fill="#CF1B2B"></path>
+                    <polygon id="Fill-13" fill="#FED700" points="49.0137 0 44.9997 33 57.5227 0"></polygon>
+                    <path d="M80,0 L67.786,0 L45,33 L82.027,0.206 C81.372,0.071 80.694,0 80,0" id="Fill-15" fill="#FED700"></path>
+                    <polygon id="Fill-17" fill="#CF1B2B" points="57.5224 0 45.0004 33 67.7864 0"></polygon>
+                    <polygon id="Fill-19" fill="#CF1B2B" points="45 33 90 33 90 21.911"></polygon>
+                    <path d="M90,10 C90,9.799 89.982,9.602 89.97,9.403 L45,33 L90,21.911 L90,10 Z" id="Fill-21" fill="#FED700"></path>
+                    <path d="M82.0267,0.2061 L44.9997,33.0001 L89.9697,9.4031 C89.6997,4.8441 86.3877,1.1041 82.0267,0.2061" id="Fill-23" fill="#CF1B2B"></path>
+                    <path d="M0,33 L0,55 C0,60.523 4.477,65 10,65 L80,65 C85.523,65 90,60.523 90,55 L90,33 L45,33 L0,33 Z" id="Fill-25" fill="#00247D"></path>
+                    <polygon id="Fill-27" fill="#FF7900" points="45 15.0295 49.236 28.0665 62.944 28.0665 51.854 36.1235 56.09 49.1605 45 41.1035 33.91 49.1605 38.146 36.1235 27.056 28.0665 40.764 28.0665"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
