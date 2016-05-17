@@ -1,0 +1,27 @@
+{
+  "name": "twemoji-constituent-flags",
+  "version": "0.0.1",
+  "description": "Twemoji-style flags of subnational or constituent areas.",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lrenhrda/twemoji-constituent-flags.git"
+  },
+  "author": "Lauren Herda <lauren@herda.me>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lrenhrda/twemoji-constituent-flags/issues"
+  },
+  "homepage": "https://github.com/lrenhrda/twemoji-constituent-flags#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-cheerio": "^0.6.2",
+    "gulp-raster": "^0.1.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-svgmin": "^1.2.2",
+    "run-sequence": "^1.1.5"
+  }
+}
