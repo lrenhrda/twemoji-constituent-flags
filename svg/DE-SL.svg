@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="26px" viewBox="0 0 36 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>DE-SL</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="36" height="26" rx="4"></rect>
+        <rect id="path-3" x="0" y="0" width="14" height="16"></rect>
+        <mask id="mask-5" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.5" y="-0.5" width="15" height="17">
+            <rect x="-0.5" y="-0.5" width="15" height="17" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <rect id="path-6" x="0" y="0" width="8" height="9"></rect>
+        <rect id="path-8" x="0" y="0" width="8" height="9"></rect>
+        <rect id="path-10" x="0" y="0" width="8" height="9"></rect>
+        <rect id="path-12" x="0" y="0" width="8" height="9"></rect>
+    </defs>
+    <g id="DE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DE-SL">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Flag-Shape" fill="#F3F3F3" xlink:href="#path-1"></use>
+            <rect id="Rectangle-51" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="36" height="8"></rect>
+            <rect id="Rectangle-51-Copy" fill="#DD0000" mask="url(#mask-2)" x="0" y="8" width="36" height="9"></rect>
+            <rect id="Rectangle-51-Copy-2" fill="#FFCE00" mask="url(#mask-2)" x="0" y="17" width="36" height="9"></rect>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(11.000000, 6.000000)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Rectangle-8" stroke="none" fill="none">
+                        <use fill="#F2F2F2" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use stroke="#000000" mask="url(#mask-5)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="Group-3" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(7.000000, -2.000000)">
+                            <mask id="mask-7" fill="white">
+                                <use xlink:href="#path-6"></use>
+                            </mask>
+                            <use id="Rectangle-71" stroke="none" fill="#F2F2F2" fill-rule="evenodd" xlink:href="#path-6"></use>
+                            <path d="M5,4 L5,2 L2,2 L2,4 L0,4 L0,7 L2,7 L2,9 L5,9 L5,7 L7,7 L7,4 L5,4 Z" id="Combined-Shape" stroke="none" fill="#DD0000" fill-rule="evenodd" mask="url(#mask-7)"></path>
+                        </g>
+                    </g>
+                    <g id="Group-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(-1.000000, -2.000000)">
+                            <mask id="mask-9" fill="white">
+                                <use xlink:href="#path-8"></use>
+                            </mask>
+                            <use id="Rectangle-71-Copy" stroke="none" fill="#176FC1" fill-rule="evenodd" xlink:href="#path-8"></use>
+                            <circle id="Oval-13" stroke="none" fill="#D8D8D8" fill-rule="evenodd" opacity="0.5" mask="url(#mask-9)" cx="4.5" cy="5.5" r="3.5"></circle>
+                        </g>
+                    </g>
+                    <g id="Group-2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(-1.000000, 7.000000)">
+                            <mask id="mask-11" fill="white">
+                                <use xlink:href="#path-10"></use>
+                            </mask>
+                            <use id="Rectangle-71-Copy-2" stroke="none" fill="#FFCE00" fill-rule="evenodd" xlink:href="#path-10"></use>
+                            <polygon id="Line" stroke="none" fill="#DD0000" fill-rule="evenodd" mask="url(#mask-11)" points="-0.614941219 -0.496552903 8.38505878 9.5034471 9.38850588 10.6183883 11.6183883 8.61149412 10.6149412 7.4965529 1.61494122 -2.5034471 0.611494122 -3.61838832 -1.61838832 -1.61149412"></polygon>
+                        </g>
+                    </g>
+                    <g id="Group-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" mask="url(#mask-4)">
+                        <g transform="translate(7.000000, 7.000000)">
+                            <mask id="mask-13" fill="white">
+                                <use xlink:href="#path-12"></use>
+                            </mask>
+                            <use id="Rectangle-71-Copy-3" stroke="none" fill="#000000" fill-rule="evenodd" xlink:href="#path-12"></use>
+                            <circle id="Oval-14" stroke="none" fill-opacity="0.5" fill="#FFCE00" fill-rule="evenodd" mask="url(#mask-13)" cx="3.5" cy="3.5" r="3.5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="26px" viewBox="0 0 36 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.1 (29687) - http://www.bohemiancoding.com/sketch -->
+    <title>DE-RP</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="36" height="26" rx="4"></rect>
+        <rect id="path-3" x="1.22222222" y="2.4" width="8.55555556" height="9.6"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-0.5" y="-0.5" width="9.55555556" height="10.6">
+            <rect x="0.722222222" y="1.9" width="9.55555556" height="10.6" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <path d="M4.27777778,0 L0,0 L0,5.31940675 C0,5.98550792 0.15244816,6.61647991 0.424379716,7.17912449 C2.58386867,6.96557413 4.27777778,5.13994186 4.27777778,2.91940675 L4.27777778,1.66533454e-16 Z" id="path-5"></path>
+        <ellipse id="path-7" cx="7.63888889" cy="5.1" rx="1.52777778" ry="1.5"></ellipse>
+        <mask id="mask-8" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="3.05555556" height="3" fill="white">
+            <use xlink:href="#path-7"></use>
+        </mask>
+    </defs>
+    <g id="DE" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="DE-RP">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Flag-Shape" fill="#F3F3F3" xlink:href="#path-1"></use>
+            <rect id="Rectangle-51" fill="#000000" mask="url(#mask-2)" x="0" y="0" width="36" height="8"></rect>
+            <rect id="Rectangle-51-Copy" fill="#DD0000" mask="url(#mask-2)" x="0" y="8" width="36" height="9"></rect>
+            <rect id="Rectangle-51-Copy-2" fill="#FFCE00" mask="url(#mask-2)" x="0" y="17" width="36" height="9"></rect>
+            <g id="Group-2" mask="url(#mask-2)">
+                <g transform="translate(2.000000, 2.000000)">
+                    <g id="Rectangle-8" stroke="none" fill="none">
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#path-3"></use>
+                        <use stroke="#000000" mask="url(#mask-4)" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" xlink:href="#path-3"></use>
+                    </g>
+                    <path d="M5.5,2.4 L9.77777778,2.4 L9.77777778,7.71940675 C9.77777778,8.38586363 9.62519029,9.01674762 9.35322448,9.57915102 C7.18997998,9.3655531 5.5,7.537194 5.5,5.31940675 L5.5,2.4 Z" id="Combined-Shape" stroke="none" fill="#DD0000" fill-rule="evenodd"></path>
+                    <g id="Group" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1.222222, 2.400000)">
+                        <mask id="mask-6" fill="white">
+                            <use xlink:href="#path-5"></use>
+                        </mask>
+                        <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-5"></use>
+                        <path d="M1.22222222,2.4 L0,2.4 L0,4.2 L1.22222222,4.2 L1.22222222,7.2 L3.05555556,7.2 L3.05555556,4.2 L4.27777778,4.2 L4.27777778,2.4 L3.05555556,2.4 L3.05555556,0 L1.22222222,0 L1.22222222,2.4 Z" id="Combined-Shape" fill="#DD0000" mask="url(#mask-6)"></path>
+                    </g>
+                    <use id="Oval-12" stroke="#FFFFFF" mask="url(#mask-8)" stroke-width="2" fill="none" xlink:href="#path-7"></use>
+                    <polygon id="Path-53" stroke="none" fill="#FFCE00" fill-rule="evenodd" points="5.5 7.2 7.33333333 9.6 6.72222222 11.4 4.27777778 11.4 3.66666667 9.6"></polygon>
+                    <path d="M1.22222222,3 C1.22222222,3 2.44444444,2.4 5.5,2.4 C8.55555556,2.4 9.77777778,3 9.77777778,3 L11,1.2 L9.47222222,1.5 L8.55555556,0.3 L7.02777778,1.2 L5.5,0 L4.27777778,1.2 L2.75,0 L1.52777778,1.2 L0,0.9 L1.22222222,3 Z" id="Path-54" stroke="none" fill="#FFCE00" fill-rule="evenodd"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
